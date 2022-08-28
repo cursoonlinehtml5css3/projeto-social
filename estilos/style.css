@@ -19,7 +19,7 @@ body {
 }
 
 main {
-    height: 80vh;
+    height: 100vh;
     position: relative;
 }
 
@@ -58,5 +58,5 @@ section#redes-sociais img:hover {
     border: 2px solid rgb(255, 255, 255);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
-    transition: transforn 0.5s, border 0.5s;
+    transition: transforn 0.3s, border 1s;
 }
